@@ -85,13 +85,3 @@ Todas as linguagens cumprem bem a tarefa proposta. A escolha ideal depende do co
 - **JavaScript** é ótimo para ensinar ou prototipar rapidamente, mas menos indicado para cálculos matemáticos intensos sem otimização.
 
 ---
-
-## 📂 Sugestão de Arquivos
-
-```plaintext
-fibonacci.lisp         ; Implementação em Lisp
-fibonacci.hs           ; Implementação em Haskell
-fibonacci.js           ; Implementação em JavaScript
-comparacao-fibonacci.md; Este documento de análise
-
----
